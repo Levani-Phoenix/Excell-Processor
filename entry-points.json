@@ -4,7 +4,16 @@
     {
       "filePath": "Main.xaml",
       "uniqueId": "37fa568b-c55e-4441-b128-9b3be0b0e67a",
-      "type": "process"
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "OutputFile": {
+            "type": "string"
+          }
+        },
+        "required": []
+      }
     }
   ]
 }
